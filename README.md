@@ -32,7 +32,7 @@ pip install gym
 pip install keras-rl
 ```
 
-## Env クラスの作成
+## 独自 Env クラスの作成の準備
 1.  ひな型として cartpole.py ファイルを取得
 - [cartpole.py](https://github.com/openai/gym/blob/master/gym/envs/classic_control/cartpole.py "cartpole.py")
 - Open AI Gym
