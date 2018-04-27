@@ -46,6 +46,7 @@ from gym.utils import seeding
 import numpy as np
 
 class myCartPoleEnv(gym.Env):
+  ...
 ```
 
 2. Gymへの登録
