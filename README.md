@@ -1,6 +1,5 @@
-##
+#Keras-RL のカスタマイズ
 
-1. Build Environment
+強化学習のライブラリーであるKeras-RL のカスタマイズ手順です。一番簡単なサンプルである、CartPole を使います。
 
-2. Add custom Environment
-
+1. 独自の Env 作成
